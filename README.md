@@ -74,8 +74,8 @@ The project explores **Cyclistic**, a bike-share company in Chicago, and answers
 
 ## 📂 Files in Repository  
 - `Case Study_How does a bike-share navigate speedy success.pdf` → about project requirement
-- `feb 2025 to july 2025` → all datasets
-- `Bikeshare.pbix` → Interactive Power Bi file  
+- `feb 2025 to july 2025` → all datasets (not uploaded as limitation of 25mb file size)
+- `Bikeshare.pbix` → Interactive Power Bi file (not uploaded as limitation of 25mb file size) 
 - `Cyclistic bike-share analysis case study.pptx` → PPT presentation
 - `README.md` → Project documentation  
 
